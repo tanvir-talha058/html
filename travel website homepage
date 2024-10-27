@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Bangladesh - Your Travel Companion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0275d8;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #004a8e;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        .hero {
+            background-image: url('bangladesh.jpg'); /* replace with an image */
+            height: 60vh;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            text-align: center;
+            font-size: 2rem;
+        }
+        .content {
+            padding: 2rem;
+            text-align: center;
+        }
+        .services {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        .service {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 250px;
+            text-align: center;
+        }
+        footer {
+            background-color: #0275d8;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Explore Bangladesh</h1>
+    <p>Your Travel Companion</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#destinations">Destinations</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <div>
+        <h2>Discover the Beauty of Bangladesh</h2>
+        <p>Unforgettable Experiences Await</p>
+    </div>
+</section>
+
+<section class="content" id="services">
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="service">
+            <h3>Guided Tours</h3>
+            <p>Experience Bangladesh with our expert guides.</p>
+        </div>
+        <div class="service">
+            <h3>Accommodation</h3>
+            <p>Comfortable and affordable stays for your journey.</p>
+        </div>
+        <div class="service">
+            <h3>Transport</h3>
+            <p>Reliable and safe transport options throughout Bangladesh.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Explore Bangladesh | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
