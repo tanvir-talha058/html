@@ -6,15 +6,6 @@ This repository contains various HTML projects and resources.  It's a collection
 
 This repository serves as a learning ground and a showcase for HTML concepts.  It includes a variety of projects, ranging from basic HTML structure to more complex layouts and interactive elements.  Whether you're a beginner learning HTML or an experienced developer looking for inspiration, you might find something useful here.
 
-## Projects
-
-This section lists the projects included in the repository.  Each project has its own directory with a README file explaining its specific purpose and implementation.
-
-*   **[Project 1: Basic HTML Structure](./project1/)**:  Demonstrates fundamental HTML tags, including headings, paragraphs, lists, and links.  (Link to project-specific README if available)
-*   **[Project 2: Simple Web Page Layout](./project2/)**:  Showcases how to create a basic web page layout using divs and CSS (if applicable). (Link to project-specific README if available)
-*   **[Project 3: Forms and User Input](./project3/)**:  Explores HTML forms and different input types, including text fields, radio buttons, and checkboxes. (Link to project-specific README if available)
-*   **(Add more projects as needed)**
-
 ## Usage
 
 To use the code in this repository:
