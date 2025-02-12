@@ -6,13 +6,6 @@ This repository contains various HTML projects and resources.  It's a collection
 
 This repository serves as a learning ground and a showcase for HTML concepts.  It includes a variety of projects, ranging from basic HTML structure to more complex layouts and interactive elements.  Whether you're a beginner learning HTML or an experienced developer looking for inspiration, you might find something useful here.
 
-## Usage
-
-To use the code in this repository:
-
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/html.git`
-2.  Navigate to the specific project directory you're interested in: `cd project1` (replace with the project directory name)
-3.  Open the HTML file in your web browser: `open index.html` (or the relevant HTML file)
 
 ## Contributing
 
